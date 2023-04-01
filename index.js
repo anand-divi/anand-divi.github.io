@@ -119,7 +119,11 @@ themeButton.addEventListener("click", () => {
   localStorage.setItem("selected-icon", getCurrentIcon());
 });
 
-
+/*==================== PRELOADER ====================*/
+let preloader = document.getElementById("loading");
+function preLoader() {
+  preloader.style.display = "none";
+}
 
 /*==================== FORM SUBMIT ====================*/
 document.getElementById("contact-form").addEventListener("submit", (e) => {
