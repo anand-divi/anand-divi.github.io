@@ -171,7 +171,7 @@ document.getElementById("contact-form").addEventListener("submit", (e) => {
 });
 
 /*==================== GITHUB CALENDAR ====================*/
-GitHubCalendar(".calendar", "sanajitjana", {
+GitHubCalendar(".calendar", "anand-divi", {
   responsive: true,
   global_stats: false,
   tooltips: true,
