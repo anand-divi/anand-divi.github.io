@@ -470,7 +470,7 @@ img {
 }
 
 /*==================== ABOUT ====================*/
-.about__img {
+.home-img {
   width: 200px;
   border-radius: 0.5rem;
   justify-self: center;
@@ -634,7 +634,7 @@ img {
   position: absolute;
   height: 100%;
   width: 100%;
-  -webkit-border-radius: 100%;
+  border-radius: 100%;
   clip: rect(0px, 100px, 100px, 50px);
   transform: rotate(250deg);
   border-width: 9px;
