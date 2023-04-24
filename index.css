@@ -681,7 +681,7 @@ img {
   grid-template-columns: repeat(1, 1fr);
 }
 
-.services__content {
+.project-card {
   position: relative;
   padding: 5px 15px;
   border-radius: 0.25rem;
@@ -802,12 +802,12 @@ img {
 
 /*==================== projects ====================*/
 
-.project-desc {
+.project-description {
   flex-wrap: wrap;
   font-size: 15px;
   margin: 20px 20px 20px 20px;
 }
-.project-tech {
+.project-tech-stack {
   display: flex;
   flex-wrap: wrap;
   gap: 0px 20px;
@@ -821,7 +821,7 @@ img {
   gap: 0px 10px;
   margin: 20px 20px 30px 20px;
 }
-.project-action {
+.project-github-link, .project-deployed-link {
   background-color: rgb(237, 237, 237);
   border: 1px solid rgb(196, 196, 196);
   border-radius: 5px;
@@ -830,7 +830,7 @@ img {
   font-weight: 500;
   padding: 0px 5px 0px 0px;
 }
-.project-action:hover {
+.project-github-link:hover,.project-deployed-link:hover {
   cursor: pointer;
   background-color: rgb(227, 227, 227);
 }
