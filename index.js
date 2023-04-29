@@ -25,9 +25,7 @@
 window.open("https://drive.google.com/file/d/1gaYg_spHeDyU9UGdazWoWeSvwVrNAN4k/view?usp=sharing");
   }
 
-  document.getElementById("resume-button-2").onclick = () => {
-    window.open("./images/Anand Divi Resume (2).pdf", "_blank");
-  };
+  
      
   
   function openNav() {
