@@ -15,7 +15,7 @@
       }
   };
 
-  GitHubCalendar(".calendar", "Rubel011", {
+  GitHubCalendar(".calendar", "anand-divi", {
     responsive: true,
     global_stats: false,
     tooltips: true,
