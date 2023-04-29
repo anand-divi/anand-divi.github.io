@@ -22,11 +22,11 @@
   });
 
   document.getElementById("resume-button-1").onclick=()=>{
-window.open("https://drive.google.com/file/d/1gaYg_spHeDyU9UGdazWoWeSvwVrNAN4k/view");
+window.open("https://drive.google.com/file/d/1gaYg_spHeDyU9UGdazWoWeSvwVrNAN4k/view?usp=sharing");
   }
 
   document.getElementById("resume-button-2").onclick=()=>{
-    window.open("https://drive.google.com/file/d/1gaYg_spHeDyU9UGdazWoWeSvwVrNAN4k/view");
+    window.open("https://drive.google.com/file/d/1gaYg_spHeDyU9UGdazWoWeSvwVrNAN4k/view?usp=sharing");
   }
      
   
